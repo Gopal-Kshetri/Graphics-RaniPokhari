@@ -1,5 +1,4 @@
 [Bb][Uu][Ii][Ll][Dd]
-build/*
 
 compile.sh
 
@@ -8,6 +7,4 @@ compile.sh
 
 build.sh
 
-res/*
 
-!res/sphere.obj
