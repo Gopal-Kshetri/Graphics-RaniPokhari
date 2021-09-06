@@ -1,0 +1,13 @@
+[Bb][Uu][Ii][Ll][Dd]
+build/*
+
+compile.sh
+
+.vscode
+.vs
+
+build.sh
+
+res/*
+
+!res/sphere.obj
