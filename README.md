@@ -1,4 +1,4 @@
-# Graphix
+# Rani_Pokhari
 Attempting Graphics from Scratch
 
 Required:
